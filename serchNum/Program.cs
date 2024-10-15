@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace serchNum_preRelease
+namespace serchNum_alphaTest_git
 {
     internal class Program
     {

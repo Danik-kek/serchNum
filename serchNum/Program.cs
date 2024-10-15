@@ -1,6 +1,6 @@
 ﻿using System.Globalization;
 
-namespace serchNum_pre
+namespace serchNum_preRelease
 {
     internal class Program
     {
